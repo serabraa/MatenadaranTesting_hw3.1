@@ -1,1 +1,1 @@
-Homework 3.1 by Sergey Abrahamyan
+Homework 3.1 by Sergey Abrahamyan.Only **src/test/java/org/example -> TestSelenium.java** is needed. src/main/java/org/example -> App.java was left because of the structural purposes(without it I was getting an error).
